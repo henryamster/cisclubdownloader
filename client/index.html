@@ -1,4 +1,4 @@
-!<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <title>
@@ -8,16 +8,43 @@
     <link rel="stylesheet" href="/css/styles.css" type="text/css" />
   </head>
   <body>
+    <div class="container">
+    <img src="/img/EKU_Primary_Logo_RGB.png" class="logo"></img>
     <h1>Downloader</h1>
     
+    <div class="card">
+      <h2>Welcome to the EKU downloader!</h2>
+      
+      <p>EKU's CIS club has put together a Raspberry Pi downloading hub available for all students in BTC 1(??). We have access to many popular software downloads 
+      (including Windows 10, Office Suite, Visual Studio) and more for students without access to high speed internet. Aside from these standard software packages, we also offer remote 
+      downloads of other software suites, data sets, code repositories and more! These downloads are handled automatically by a codebase built by our very own CIS club members.</p>
+      
+      <h4>Although the downloads are done automatically, this does <em>NOT</em> mean they will be unmonitored. All downloads will be logged by IP address, student ID, and contents, so please
+      refrain from ANY illegal activity!</h4>
+      
+    </div>
+    
+    <div class="card">
+     <h2> Select the hardware suite you need and enter your information, or... </h2>
+    
+    
+    --TABLE WITH SUITES ALREADY DOWNLOADED --
+    
+    </div>
+    
+    
+    <div class="card">
+    <h2>Enter your information and download link to pick up later!</h2>
     <form>
-      <label for="studentName" >Student Name</label>
-      <input type="text" name="StudentName" id="studentName"/>
-      <label for="studentID" >Student ID</label>
-      <input type="text" name="studentID" id="studentID"/>
-      <label for="dlLink" >Student Name</label>
-      <input type="text" name="dlLink" id="dlLink"/>
-      <input type="submit" value="Submit"/>
-    </form>
+      <label for="studentName" class="formControl">Student Name</label>
+      <input type="text" name="StudentName" id="studentName" class="formControl"/>
+      <label for="studentID" class="formControl" >Student ID</label>
+      <input type="text" name="studentID" id="studentID" class="formControl"/>
+      <label for="dlLink" class="formControl">Link to download</label>
+      <input type="text" name="dlLink" id="dlLink" class="formControl"/>
+    <input type="submit" class="formControl"/>
+  </div>
+  <script type="text/javascript" src="downloader.js"></script>
+  </div>
   </body>
 </html>
