@@ -1,22 +1,32 @@
-
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-Welcome to your Node.js project on Cloud9 IDE!
-
-This chat example showcases how to use `socket.io` with a static `express` server.
-
-## Running the server
-
-1) Open `server.js` and start the app by clicking on the "Run" button in the top menu.
-
-2) Alternatively you can launch the app from the Terminal:
-
-    $ node server.js
-
-Once the server is running, open the project in the shape of 'https://projectname-username.c9users.io/'. As you enter your name, watch the Users list (on the left) update. Once you press Enter or Send, the message is shared with all connected clients.
+ _______   ___  __    ___  ___                                                
+|\  ___ \ |\  \|\  \ |\  \|\  \                                               
+\ \   __/|\ \  \/  /|\ \  \\\  \                                              
+ \ \  \_|/_\ \   ___  \ \  \\\  \                                             
+  \ \  \_|\ \ \  \\ \  \ \  \\\  \                                            
+   \ \_______\ \__\\ \__\ \_______\                                           
+    \|_______|\|__| \|__|\|_______|                                           
+                                                                              
+                                                                              
+                                                                              
+ ________  ___  ________           ________  ___       ___  ___  ________     
+|\   ____\|\  \|\   ____\         |\   ____\|\  \     |\  \|\  \|\   __  \    
+\ \  \___|\ \  \ \  \___|_        \ \  \___|\ \  \    \ \  \\\  \ \  \|\ /_   
+ \ \  \    \ \  \ \_____  \        \ \  \    \ \  \    \ \  \\\  \ \   __  \  
+  \ \  \____\ \  \|____|\  \        \ \  \____\ \  \____\ \  \\\  \ \  \|\  \ 
+   \ \_______\ \__\____\_\  \        \ \_______\ \_______\ \_______\ \_______\
+    \|_______|\|__|\_________\        \|_______|\|_______|\|_______|\|_______|
+                  \|_________|                                                
+                                                                              
+                                                                              
+  _______  ________    _____   ________                                       
+ /  ___  \|\   __  \  / __  \ |\_____  \                                      
+/__/|_/  /\ \  \|\  \|\/_|\  \ \|___/  /|                                     
+|__|//  / /\ \  \\\  \|/ \ \  \    /  / /                                     
+    /  /_/__\ \  \\\  \   \ \  \  /  / /                                      
+   |\________\ \_______\   \ \__\/__/ /                                       
+    \|_______|\|_______|    \|__||__|/      
+    
+    
+Thank you for checking out our codebase!! 
+-EKU CIS Club
+    
